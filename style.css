@@ -51,6 +51,11 @@ main section {
   vertical-align: top;
 }
 
+#instructions {
+  width: 300px;
+  text-align: justify;
+}
+
 footer {
   background-color: #929199;
   padding: 1px;
